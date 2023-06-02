@@ -1,6 +1,6 @@
 # Stock Portfolio Web Application
 
-Harvard CS50 Project
+Harvard CS50 Project\
 Video Demo:  https://youtu.be/hle4h0g3xOs
 
 ## Description:
