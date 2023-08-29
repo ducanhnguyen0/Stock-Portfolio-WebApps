@@ -46,6 +46,6 @@ The function allows user to add cash to their funds. It validates amount of cash
 
 1. Clone this project
 2. Register for IEX Cloud API
-3. Execute in the terminal: export API_KEY=value where value is the API key from IEX Cloud
-4. Run Flask within the directory/folder with command: flask run
+3. Execute in the terminal: ```export API_KEY=``` and put the API key from IEX Cloud
+4. Run Flask within the directory/folder with command: ```flask run```
 
